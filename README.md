@@ -1,6 +1,6 @@
 # Fetch-Rewards-Job-App
 
-Write a native Android app in Java that retrieves the data from https://fetch-hiring.s3.amazonaws.com/hiring.json.
+Wrote a native Android app in Java that retrieves the data from https://fetch-hiring.s3.amazonaws.com/hiring.json.
 
 Display this list of items to the user based on the following requirements:
 
